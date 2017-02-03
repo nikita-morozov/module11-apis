@@ -1,4 +1,4 @@
-### Exercise 1 ###
+### Exercise 1.0 ###
 
 # Load the httr and jsonlite libraries for accessing data
 library("httr")
